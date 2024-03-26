@@ -4,6 +4,9 @@ An Easy Time Table App For Students with Local Database Editing Options.
 
 ## Screen Shots
 Displaying Current Class automatically basing on Present Time
+<img src="https://github.com/Chandu-geesala/Timetable-for-Students/assets/157142327/b5d9057f-caf0-46d9-8f53-c0711db9baf7" alt="Example Image" height="300">
+
+
 
 ![IMG-20240326-WA0002](https://github.com/Chandu-geesala/Timetable-for-Students/assets/157142327/b5d9057f-caf0-46d9-8f53-c0711db9baf7)
 
