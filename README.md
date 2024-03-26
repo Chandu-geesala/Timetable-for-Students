@@ -3,6 +3,11 @@
 An Easy Time Table App For Students with Local Database Editing Options.
 
 ## Screen Shots
+Displaying Current Class automatically basing on Present Time
+
+![IMG-20240326-WA0002](https://github.com/Chandu-geesala/Timetable-for-Students/assets/157142327/b5d9057f-caf0-46d9-8f53-c0711db9baf7)
+
+
 
 Slidable Call and Delete Class Options:
 ![Slidable Options](https://github.com/Chandu-geesala/Timetable-for-Students/assets/157142327/9f41748e-e0f9-4a63-981b-e77b6b16d237)
