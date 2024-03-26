@@ -8,7 +8,6 @@ Displaying Current Class automatically basing on Present Time
 
 
 
-![IMG-20240326-WA0002](https://github.com/Chandu-geesala/Timetable-for-Students/assets/157142327/b5d9057f-caf0-46d9-8f53-c0711db9baf7)
 
 
 Slidable Call and Delete Class Options:
